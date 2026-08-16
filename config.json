@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "text-adventure-game",
+      "title": "Text Adventure Game",
+      "description": "Build a branching text-based game with rooms, choices, and win conditions",
+      "path": "assignments/text-adventure-game",
+      "dueDate": "2026-08-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
